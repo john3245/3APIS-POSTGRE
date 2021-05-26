@@ -81,7 +81,10 @@ Guardamos cambios.
 
 Recuerda que las 3 APIS deben estar apuntando a una misma bd asi que en las configuraciones pasadas de bd debiste apuntar a la misma base de datos.
 
-Ahora puedes correr las migaciones ya sea con laravel o adonis para crear las tablas necesarias en este caso la tabla se llama mascotas la cual ingresas el nombre y la edad de la mascota.
+Ahora puedes correr las migaciones ya sea con laravel o adonis para crear las tablas necesarias 
+en este caso la tabla se llama mascotas la cual ingresas el nombre y la edad de la mascota.
+
+Recuerda que con que solo corras la migracion ya sea adonis o laravel es suficiente.
 
 Para correr la migracion con laravel:
 
