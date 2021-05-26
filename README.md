@@ -18,6 +18,10 @@ DB_PASSWORD=1234
 
 una vez teniendo esto lo guardamos.
 
+3. Generar tu llave:
+
+-php artisan key:generate
+
 
 -----------Adonis-----------------
 
@@ -55,6 +59,12 @@ SESSION_DRIVER=cookie
 HASH_DRIVER=bcrypt
 
 una vez teniendo esto lo guardamos.
+
+.5 Generar tu llave:
+
+-Adonis key:generate
+
+
 
 
 -----------Flask-----------------
